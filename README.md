@@ -21,3 +21,4 @@ end;
   2. Checking the hardware configuration
   3. Checking data configuration
   4. Data
+2. Second module
