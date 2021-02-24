@@ -16,7 +16,7 @@ end;
 
 ### System modules
 1. Main module
-    1.1. Checking the software configuration
-    1.2. Checking the hardware configuration
-    1.3. Checking data configuration
-    1.4. Checking the correctness of the input data
+    1.1 Checking the software configuration
+    1.2 Checking the hardware configuration
+    1.3 Checking data configuration
+    1.4 Checking the correctness of the input data
