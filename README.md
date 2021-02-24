@@ -15,6 +15,7 @@ graph TB;
 end;
 
 ### System modules
+
 1. Main module
   1. Checking the software configuration
   2. Checking the hardware configuration
