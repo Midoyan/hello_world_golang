@@ -16,9 +16,7 @@ end;
 
 ### System modules
 
-1. Main module
-  1. Checking the software configuration
-  2. Checking the hardware configuration
-  3. Checking data configuration
-  4. Data
-2. Second module
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
